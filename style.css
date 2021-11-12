@@ -1,0 +1,38 @@
+.heading{
+    font-size:  23px;
+    width: 100%;
+    margin: 0;
+}
+
+.note{
+    font-size: 12.1px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+#Song_Name{
+    font-size: medium;
+    margin-top: 10px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+#play_song_1{
+    float: left;
+    margin-left:20px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+#play_song_2{
+    float: right;
+    margin-right:20px;
+    margin-top: 10px;
+    font-size: 14px;
+}
